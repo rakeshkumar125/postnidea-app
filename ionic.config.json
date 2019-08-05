@@ -1,5 +1,9 @@
 {
   "name": "test1",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "649e0871"
 }
